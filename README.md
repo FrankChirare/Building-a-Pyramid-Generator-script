@@ -43,17 +43,17 @@ Your console will display:
 
 If you set:
 ```js
-const character = "*";
+const character = "!";
 const count = 4;
 let inverted = true;
 ```
 
 Your console will display:
 ```js
-*******
- *****
-  ***
-   *
+!!!!!!!
+ !!!!! 
+  !!!  
+   !   
 ```
 ## Tips
 
