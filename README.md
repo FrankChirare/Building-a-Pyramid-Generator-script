@@ -53,8 +53,8 @@ Your console will display:
   ***
    *
 ```
-#Tips
+# Tips
 
-##Play with different characters, counts, and the inverted setting for fun results.
+## Play with different characters, counts, and the inverted setting for fun results.
 
-##This project is a simple, hands-on way to practice JavaScript fundamentals!
+## This project is a simple, hands-on way to practice JavaScript fundamentals!
