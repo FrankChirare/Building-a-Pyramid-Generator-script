@@ -52,7 +52,7 @@ Your console will display:
  *****
   ***
    *
-
+```
 #Tips
 
 ##Play with different characters, counts, and the inverted setting for fun results.
