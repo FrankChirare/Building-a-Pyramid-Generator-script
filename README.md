@@ -30,20 +30,26 @@ If you set:
 const character = "*";
 const count = 5;
 let inverted = false;
+```
 
 Your console will display:
+```js
     *    
    ***   
   *****  
  ******* 
 *********
+```
 
 If you set:
+```js
 const character = "@";
 const count = 4;
 let inverted = true;
+```
 
 Your console will display:
+```js
 *******
  *****
   ***
